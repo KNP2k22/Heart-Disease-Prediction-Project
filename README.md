@@ -42,4 +42,4 @@ pip install numpy pandas seaborn matplotlib scikit-learn
 
 ### Запуск блокнота Jupyter:
 
-Откройте и выполните блокнот Jupyter (Heart_Disease_Prediction.ipynb) в вашей предпочтительной среде.
+Откройте и выполните блокнот Jupyter (Heart-Disease-Prediction-Project..ipynb) в вашей предпочтительной среде.
